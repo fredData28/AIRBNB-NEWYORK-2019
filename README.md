@@ -1,20 +1,20 @@
 # AIRBNB-NEWYORK-2019
 
-OVERVIEW
+## OVERVIEW
 
 
 This dataset contains detailed information about Airbnb listings in New York City as of 2019.
 It includes pricing, location, host details, room types, availability, and customer
 reviews—ideal for market analysis, real estate insights, and pricing strategy research
 
-Data sources
+## Data sources
 
 
 
 The primary source of data used here is AB-NYC-2019.CSV and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site
 
 
-Dataset Details
+## Dataset Details
 
 Filename : AB_NYC_2019.csv
 
@@ -47,7 +47,7 @@ Rows: 48,895
 
 
 
-TOOLS USED
+## TOOLS USED
 
 
 Microsoft Excel for data cleaning,Analysis
@@ -66,7 +66,7 @@ GITHUB for portfolio building
 
 
 
-DATA CLEANING AND PREPARATION
+## DATA CLEANING AND PREPARATION
 
 in the initial phase of the data cleaning and preparations,we perform the following actions
 
@@ -94,15 +94,24 @@ The EDA process involves analyzing the AIRBNB data to understand the distributio
 7. what is the minimum night by host name
 
 
-Key Insights (Sample Analysis)
-### . Price Trends
+## Key Insights (Sample Analysis)
+### 1. Price Trends
 - Most Expensive Borough: Manhattan ($196 avg/night)
 - Most Affordable: Staten Island ($62 avg/night)
 - Top 3 Priciest Neighborhoods:
 1. Midtown (Manhattan)
 2. Financial District (Manhattan)
 3. Williamsburg (Brooklyn)
-##2. Host Behaviour
-   
+
+
+### 2. Host Behaviour
+
+- 72% of hosts manage only **1 property**.
+
+- **Top host (ID `219517`)** controls **327 listings** (likely a property management
+company).
+### **3. Room Types**
+- **52%** of listings are **entire homes/apartments**.
+- **Private  rooms** dominate in Brooklyn (45% of listings).
 
 
