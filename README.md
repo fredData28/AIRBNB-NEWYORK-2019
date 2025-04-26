@@ -43,3 +43,56 @@ Rows: 48,895
 | `reviews_per_month` | Average review frequency |
 | `calculated_host_listings_count` | Total listings per host
 | `availability_365` | Days available per year 
+
+
+
+
+TOOLS USED
+
+
+Microsoft Excel for data cleaning,Analysis
+
+SQL for structured query language for querying of data
+
+POWERBI for data visualisation
+
+GITHUB for portfolio building
+
+
+
+
+
+
+
+
+
+DATA CLEANING AND PREPARATION
+
+in the initial phase of the data cleaning and preparations,we perform the following actions
+
+1.Data loading
+
+2.handling missing variables
+
+3.Data cleaning and formatting
+
+4.Creating additional numeric column
+
+
+
+Explanatory data Analysis
+
+
+The EDA process involves analyzing the AIRBNB data to understand the distribution of variables,identify patterns and trends ,detect potential issues and answer key question
+
+1. What is the average availability of listing throughout the year by room type
+   
+3. what is price distribution by roomtype
+   
+5. what is price distribution by hostname
+   
+7. what is the minimum night by host name
+
+   
+
+
