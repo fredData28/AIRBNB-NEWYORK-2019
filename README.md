@@ -114,4 +114,36 @@ company).
 - **52%** of listings are **entire homes/apartments**.
 - **Private  rooms** dominate in Brooklyn (45% of listings).
 
+### 4.Demand 
+-listing with high review/month are concerntrated in williamsburg and east village
+
+### statistical  highlights
+average price = $152.72
+most common room type = Entire home(52%)
+
+Recommendations
+### For Hosts
+-Manhattan hosts:highlight amenities to justify premium pricing
+-Brooklyn hosts: target budget travelers with private rooms
+
+### For travelers
+-budget stays:opt for queens or staten island
+-long stay:filter for listing with minimum nights <7
+
+
+### For investors
+-Focus on williamsburg and hells kitchen for high demand areas
+
+
+## Limitations
+1. Temporal data
+-Data from 2019,post-pandemic trends may differ
+
+2. Missing Metrics
+
+-no square footage or eaact occupancy rates
+
+3.Bias
+-superhosts may be overrepresented due to higher review visibiity.
+
 
