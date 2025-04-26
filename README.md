@@ -80,7 +80,7 @@ in the initial phase of the data cleaning and preparations,we perform the follow
 
 
 
-Explanatory data Analysis
+### Explanatory data Analysis
 
 
 The EDA process involves analyzing the AIRBNB data to understand the distribution of variables,identify patterns and trends ,detect potential issues and answer key question
@@ -93,6 +93,16 @@ The EDA process involves analyzing the AIRBNB data to understand the distributio
    
 7. what is the minimum night by host name
 
+
+Key Insights (Sample Analysis)
+### . Price Trends
+- Most Expensive Borough: Manhattan ($196 avg/night)
+- Most Affordable: Staten Island ($62 avg/night)
+- Top 3 Priciest Neighborhoods:
+1. Midtown (Manhattan)
+2. Financial District (Manhattan)
+3. Williamsburg (Brooklyn)
+##2. Host Behaviour
    
 
 
